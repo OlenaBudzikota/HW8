@@ -51,6 +51,7 @@ class PrintOut{
         new Print().nameShape(new Cube());
         new Print().nameShape(new Rectangle());
         new Print().nameShape(new Triangle());
-
+        new Print().nameShape(new Circle());
+        new Print().nameShape(new Star());
     }
 }
